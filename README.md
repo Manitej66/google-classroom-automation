@@ -48,3 +48,11 @@ This is a Python automation script that attends online classes (Google classroom
    ```python
    class -a
    ```
+
+## 📚 Reference repos
+
+1. https://github.com/kathir-t/GoogleMeet_CallAlerter
+
+2. https://github.com/ItsDandelia/Google-Meet-Auto-SignIn
+
+3. https://github.com/theunhackable/google-classroom-automation
